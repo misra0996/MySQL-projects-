@@ -1,3 +1,2 @@
 # ✌️WELCOME!!
-
-This repository contains SQL scripts, data cleaning processes, and exploratory data analysis (EDA) for structured datasets. The projects focuses on database design, optimization, data quality improvements, and insightful queries
+This project focuses on data cleaning and exploratory data analysis (EDA) for global layoff trends using SQL. The dataset includes company layoffs, affected industries, funding details, and layoff percentages over time. It emphasizes database design, query optimization, data quality improvements, and insightful analysis to uncover key trends in workforce reductions
